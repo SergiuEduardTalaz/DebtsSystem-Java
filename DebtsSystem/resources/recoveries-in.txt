@@ -1,0 +1,361 @@
++++
+3857423986430
+Julian Alvarez
+6815
+Yes
+all at once
+2023-06-13
+null
+null
++++
+3985465926199
+Gonzalo Martinez
+529
+No
+null
+null
+null
+null
++++
+3589143659179
+Marco Polo
+4234
+Yes
+installments
+2024-08-30
+null
+4
++++
+3148965107564
+Jorge Guttierez
+2101
+Yes
+discount
+2023-07-11
+10
+null
++++
+3948165164723
+Agustina Bruno
+385
+No
+null
+null
+null
+null
++++
+3048195719866
+Angeles Lemcke
+107
+Yes
+all at once
+2023-09-25
+null
+null
++++
+3897495614562
+Beatriz Paniagua
+1860
+Yes
+installments
+2024-05-18
+null
+2
++++
+3785634758164
+Lionel Cairatti
+1204
+No
+null
+null
+null
+null
++++
+3908109841051
+Ludmila Fourtmartin
+13078
+Yes
+discount
+2025-02-17
+20
+null
++++
+3419765156417
+Mauro Candelino
+47
+Yes
+all at once
+2023-05-29
+null
+null
++++
+3235652092462
+Nahuel Toranzo
+112
+Yes
+all at once
+2024-01-07
+null
+null
++++
+3248760824642
+Ana Espejo
+489
+Yes
+installments
+2023-06-12
+null
+2
++++
+3894276924986
+Nicolas Napole
+207
+No
+null
+null
+null
+null
++++
+3904376428669
+Claudio Aguirre
+1328
+Yes
+installments
+2023-11-15
+null
+2
++++
+3584276984398
+Luis Aspec
+589
+Yes
+all at once
+2023-09-18
+null
+null
++++
+3653907684629
+Amanda Corbalan
+5721
+Yes
+discount
+2024-05-26
+15
+null
++++
+3587436675438
+Avigail Cobos
+1833
+Yes
+installments
+2024-02-12
+null
+3
++++
+3284321983143
+Brisa Herrera
+6432
+No
+null
+null
+null
+null
++++
+3152745987202
+Nicolas Carratu
+75
+No
+null
+null
+null
+null
++++
+3042986574295
+Rene Pellicano
+2651
+Yes
+installments
+2024-01-16
+null
+2
++++
+3189642529656
+Rosalia Alegre
+36
+Yes
+all at once
+2024-06-14
+null
+null
++++
+3032985426992
+Gustavo Cordeiro
+102
+No
+null
+null
+null
+null
++++
+3894679438652
+Graciela Norma
+2370
+Yes
+installments
+2023-10-20
+null
+2
++++
+3942754659484
+Mercedes Marquina
+9
+Yes
+all at once
+2024-11-18
+null
+null
++++
+3105782485205
+Victor Abreu
+4822
+Yes
+discount
+2024-03-23
+10
+null
++++
+3023985629465
+Maria Mores
+38
+No
+null
+null
+null
+null
++++
+3184732856902
+Adrian Gorosito
+71
+Yes
+all at once
+2024-07-11
+null
+null
++++
+3542864296962
+Tiago Sanches
+1963
+Yes
+installments
+2023-08-20
+null
+2
++++
+3927454289654
+Macarena Talerico
+938
+Yes
+installments
+2023-12-04
+null
+3
++++
+3648673763663
+Lautaro Taibo
+11
+No
+null
+null
+null
+null
++++
+3724654928754
+Lucia Sappia
+4775
+Yes
+discount
+2024-09-05
+10
+null
++++
+3398562945684
+Nadia Carrera
+5272
+Yes
+installments
+2023-10-13
+null
+5
++++
+3723095789426
+Rita Tangos
+2906
+Yes
+installments
+2025-01-07
+null
+4
++++
+3524769846480
+Lucas Toccalino
+253
+No
+null
+null
+null
+null
++++
+3924750843659
+Tamara Odierna
+1441
+Yes
+installments
+2023-08-23
+null
+2
++++
+3028562744268
+Walter Etchecopar
+204
+Yes
+all at once
+2024-01-28
+null
+null
++++
+3032985674286
+Tomas Giron
+9
+No
+null
+null
+null
+null
++++
+3894275986425
+Pilar Rodriguez
+3690
+Yes
+installments
+2024-06-07
+null
+6
++++
+3186532965032
+Sergio Troisi
+143
+No
+null
+null
+null
+null
++++
+3998877665544
+Boludo Pelotudo
+14997
+Yes
+discount
+2025-02-19
+50
+null
+---

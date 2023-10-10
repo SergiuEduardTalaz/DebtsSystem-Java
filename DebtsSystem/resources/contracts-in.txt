@@ -1,0 +1,281 @@
++++
+3857423986430
+Julian Alvarez
+Engie
+3
+6815
+active
++++
+3985465926199
+Gonzalo Martinez
+Iren
+1
+529
+ceased
++++
+3589143659179
+Marco Polo
+Acquedotto
+3
+4234
+ceased
++++
+3148965107564
+Jorge Guttierez
+Acquedotto
+2
+2101
+active
++++
+3948165164723
+Agustina Bruno
+Iren
+1
+385
+ceased
++++
+3048195719866
+Angeles Lemcke
+Acquedotto
+1
+107
+active
++++
+3897495614562
+Beatriz Paniagua
+Engie
+2
+1860
+ceased
++++
+3785634758164
+Lionel Cairatti
+Engie
+1
+1204
+ceased
++++
+3908109841051
+Ludmila Fourtmartin
+Iren
+3
+13078
+active
++++
+3419765156417
+Mauro Candelino
+Engie
+1
+47
+ceased
++++
+3235652092462
+Nahuel Toranzo
+Eni
+1
+112
+ceased
++++
+3248760824642
+Ana Espejo
+Acea
+2
+489
+active
++++
+3894276924986
+Nicolas Napole
+Enel
+1
+207
+active
++++
+3904376428669
+Claudio Aguirre
+Sorgenia
+3
+1328
+active
++++
+3584276984398
+Luis Aspec
+Tinmar
+2
+589
+ceased
++++
+3653907684629
+Amanda Corbalan
+Illumia
+4
+5721
+active
++++
+3587436675438
+Avigail Cobos
+Eon
+2
+1833
+ceased
++++
+3284321983143
+Brisa Herrera
+Hera
+4
+6432
+active
++++
+3152745987202
+Nicolas Carratu
+Sorgenia
+1
+75
+ceased
++++
+3042986574295
+Rene Pellicano
+Edison
+3
+2651
+ceased
++++
+3189642529656
+Rosalia Alegre 
+A2a 
+1 
+36 
+active 
++++
+3032985426992
+Gustavo Cordeiro
+Iren
+1
+102
+ceased
++++
+3894679438652
+Graciela Norma
+Eni
+2
+2370
+ceased
++++
+3942754659484
+Mercedes Marquina
+Illumia
+1
+9
+active
++++
+3105782485205
+Victor Abreu
+Hera
+3
+4822
+active
++++
+3023985629465
+Maria Mores
+Acquedotto
+1
+38
+active
++++
+3184732856902
+Adrian Gorosito
+Acea
+1
+71
+ceased
++++
+3542864296962
+Tiago Sanches
+Engie
+2
+1963
+ceased
++++
+3927454289654
+Macarena Talerico
+A2a
+2
+938
+active
++++
+3648673763663
+Lautaro Taibo
+Acquedotto
+1
+11
+ceased
++++
+3724654928754
+Lucia Sappia
+Eni
+3
+4775
+active
++++
+3398562945684
+Nadia Carrera
+Tinmar
+4
+5272
+ceased
++++
+3723095789426
+Rita Tangos
+Enel
+1
+2906
+active
++++
+3524769846480
+Lucas Toccalino
+Engie
+1
+253
+ceased
++++
+3924750843659
+Tamara Odierna
+Eon
+2
+1441
+ceased
++++
+3028562744268
+Walter Etchecopar
+Acquedotto
+1
+204
+active
++++
+3032985674286
+Tomas Giron
+Iren
+1
+9
+ceased
++++
+3894275986425
+Pilar Rodriguez
+Edison
+4
+3690
+active
++++
+3186532965032
+Sergio Troisi
+Enel
+1
+143
+ceased
++++
+3998877665544
+Boludo Pelotudo
+A2a
+6
+14997
+ceased
+---
